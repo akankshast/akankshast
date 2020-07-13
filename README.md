@@ -2,7 +2,7 @@
 
 #### Good to see you here 😀
 
-* I am a third year Informatio Technology student 👩‍🎓
+* I am a third year Information Technology student 👩‍🎓
 * Full stack enthusiast 
 * Learning web-dev technologies 🌐
 * Interested in competitive coding 👩‍💻
