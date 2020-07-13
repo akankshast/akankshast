@@ -6,7 +6,7 @@
 * Full stack enthusiast 
 * Learning web-dev technologies 🌐
 * Interested in competitive coding 👩‍💻
-* 💙Hobbies Art and  music 🎵
+* 💙Hobbies: Art and  music 🎵
 * **You can reach out to me [here](https://www.linkedin.com/in/akanksha-tamboli-354852184/)** 
 
 
