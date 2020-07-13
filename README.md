@@ -1,13 +1,13 @@
 ### Hi there I'm Akanksha 🙋‍♀️
 
-### Good to see you here 😀
+#### Good to see you here 😀
 
 * I am a third year Informatio Technology student 👩‍🎓
 * Full stack enthusiast 
 * Learning web-dev technologies 🌐
 * Interested in competitive coding 👩‍💻
 * 💙Hobbies Art and  music 🎵
-* **Reach out to me [here](https://www.linkedin.com/in/akanksha-tamboli-354852184/)** 
+* **You can reach out to me [here](https://www.linkedin.com/in/akanksha-tamboli-354852184/)** 
 
 
 
