@@ -8,8 +8,6 @@
 * I am a third year Information Technology student 👩‍🎓
 * Full stack enthusiast 
 * Learning web-dev technologies 🌐
-* Interested in competitive coding 👩‍💻
-* 💙Hobbies: Art and  music 🎵
 * **You can reach out to me [here](https://www.linkedin.com/in/akanksha-tamboli-354852184/)** 
 <h2>Tech Stack</h2>
 <p align="center">
