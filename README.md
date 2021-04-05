@@ -20,7 +20,23 @@
   <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&bg_color=45,e99ba6,ffd9de">
 </p>
-
+<h2>Find me around the web 🌎:</h2>
+<p align="center">
+<a href="https://github.com/akankshast" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/akanksha195/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ <a href="mailto:akankshatamboli195@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=cc0000 alt=gmail style="margin-bottom: 5px;" />
+</a>
+  <a href="https://twitter.com/akanksha_s_t" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+ </p>
+ 
+ ![Profile views](https://gpvc.arturio.dev/akankshast)
 <!--
 **akankshast/akankshast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,4 +53,4 @@ Here are some ideas to get you started:
 -->
 <br>
 
-![Profile views](https://gpvc.arturio.dev/akankshast)
+
