@@ -20,7 +20,7 @@
   <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&bg_color=45,e99ba6,ffd9de">
 </p>
-<h2>Find me around the web 🌎:</h2>
+<h2>Find me around the web 🌎</h2>
 <p align="center">
 <a href="https://github.com/akankshast" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
