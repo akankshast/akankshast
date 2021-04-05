@@ -13,7 +13,12 @@
 <p align="center">
   <img src="https://github.com/akankshast/akankshast/blob/02bcf0236d5d8e6a5d4824a1bf8e5f1f3f26b5d3/tech_stack.svg">
   </p>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akankshast&repo=Django_Student_Management_System&show_icons=true&bg_color=45,f39fdc,9ab5e1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akankshast&repo=BloomFilter&show_icons=true&bg_color=45,f39fdc,9ab5e1">
+  </p>
+  <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Praful932&repo=EverythingEV&show_icons=true&bg_color=45,e99ba6,ffd9de">
+</p>
 
 <!--
 **akankshast/akankshast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
