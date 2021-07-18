@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋 I'm</h3>
-<p align="center">
-<img  src="https://fontmeme.com/permalink/210314/d0f684eace3c7714d60a8525c10d1f3e.png">
-</p>
+
+<h1 align="center">Akanksha Tamboli</h1>
+
 
 
 
